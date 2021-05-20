@@ -1,0 +1,16 @@
+{
+  "name": "speed-car",
+  "version": "1.0.0",
+  "description": "Calculate the speed of a car",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/speed_car"
+  },
+ 
+  "keywords": ["js","javascript","calculation","car","speed","time","kilometers"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
